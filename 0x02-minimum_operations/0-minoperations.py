@@ -14,4 +14,3 @@ def minOperations(n):
             n /= z
         z += 1
     return k
-
